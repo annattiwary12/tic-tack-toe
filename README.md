@@ -16,11 +16,14 @@ A simple, interactive **Tic-Tac-Toe** game built using **React.js**! Two players
 
 ## 📸 Preview
 
-![Tic Tac Toe Screenshot](screenshot.png) <!-- Replace with your own screenshot if needed -->
+![image](https://github.com/user-attachments/assets/ba5efad6-78ae-4a99-9063-a37cddcf27d4)
+<!-- Replace with your own screenshot if needed -->
 
 ---
 
 ## 📁 Project Structure
+
+
 my-tic-tac-toe/
 ├── public/
 │ └── index.html
