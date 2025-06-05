@@ -21,4 +21,16 @@ A simple, interactive **Tic-Tac-Toe** game built using **React.js**! Two players
 ---
 
 ## 📁 Project Structure
+my-tic-tac-toe/
+├── public/
+│ └── index.html
+├── src/
+│ ├── component/
+│ │ ├── Board.js
+│ │ └── Square.js
+│ ├── App.js
+│ ├── index.js
+│ └── style.css
+├── package.json
+└── README.md
 
