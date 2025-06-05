@@ -22,8 +22,6 @@ A simple, interactive **Tic-Tac-Toe** game built using **React.js**! Two players
 ---
 
 ## 📁 Project Structure
-
-
 my-tic-tac-toe/
 ├── public/
 │ └── index.html
@@ -36,4 +34,26 @@ my-tic-tac-toe/
 │ └── style.css
 ├── package.json
 └── README.md
+
+
+---
+
+## 🛠️ How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/tic-tac-toe-react.git
+cd tic-tac-toe-react
+
+npm install
+
+npm start
+
+Open http://localhost:3000 in your browser to play!
+
+---
+
+Would you like me to generate this `README.md` file for download, or include a screenshot placeholder file as well?
+
 
